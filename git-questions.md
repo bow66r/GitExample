@@ -3,3 +3,7 @@
 1. What is the command used to move a file to the staging area?
 
 - git add <file name>
+
+2. questions 2 
+
+- git commit -m "<message>"
